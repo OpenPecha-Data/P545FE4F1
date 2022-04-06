@@ -1,0 +1,69 @@
+id: P4A49935A
+initial_creation_type: input
+source_metadata:
+  title: Rendawa Zhönnu Lodrö
+  parent: 2. Collected works
+  source: https://sakyalibrary.com
+  bases:
+    cdb1:
+      title: ཚད་མ་རྣམ་འགྲེལ་གྱི་རྣམ་བཤད་རིགས་པའི་འདོད་འཇོ་ཞེས་བྱ་བ་བཞུགས་པའི་དབུ་ཕྱོགས།
+      author: རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
+      base_file: cdb1.txt
+      order: 1
+    46fd:
+      title: དམ་པའི་ཆོས་མངོན་པ་ཀུན་ལས་བཏུས་པའི་སྙིང་པོ་ལེགས་བཤད་ནོར་བུའི་ཕྲེང་བ།
+      author: རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
+      base_file: 46fd.txt
+      order: 2
+    dc67:
+      title: ཐེག་གསུམ་འཕགས་པའི་རྟོགས་པ་རྣམ་པར་འབྱེད་པའི་རབ་ཏུ་བྱེད་པ་ལུང་རིགས་གསལ་བཀོད།
+      author: རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
+      base_file: dc67.txt
+      order: 3
+    16ac:
+      title: རྣམ་རིག་གྲུབ་པའི་རྒྱན།
+      author: རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
+      base_file: 16ac.txt
+      order: 4
+    8e39:
+      title: དབུ་མ་རྩ་བའི་འགྲེལ་པ་འཐད་པའི་སྣང་བ།
+      author: རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
+      base_file: 8e39.txt
+      order: 5
+    d304:
+      title: གསུང་འབུམ་ཐོར་བུ་ལས་བསྟོད་པའི་ཚོགས་རྣམས།
+      author: རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
+      base_file: d304.txt
+      order: 6
+    5c23:
+      title: འཕགས་པ་རྣམ་པར་འཐག་པའི་མདོའི་དུམ་བུ།
+      author: རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
+      base_file: 5c23.txt
+      order: 7
+    b5d7:
+      title: གསུང་འབུམ་ཐོར་བུ་བ་ལས་ཚིགས་བཅད་ཀྱི་ཚོགས་འགའ།
+      author: རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
+      base_file: b5d7.txt
+      order: 8
+    78ae:
+      title: སྤྲིང་ཡིག་གི་ཚོགས།
+      author: རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
+      base_file: 78ae.txt
+      order: 9
+    8fe9:
+      title: ཕན་བྱེད་གཞན་ལ་གདམས་པ་འདོམས་པའི་སྐོར།
+      author: རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
+      base_file: 8fe9.txt
+      order: 10
+    1ef3:
+      title: གཞན་གྱི་ཐེ་ཚོམ་སེལ་བྱེད་དྲིས་ལན་ཀྱི་སྐོར།
+      author: རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
+      base_file: 1ef3.txt
+      order: 11
+    cad9:
+      title: རེད་མདའ་བའི་གསུང་ཐོར་བུ་ལས་ཞལ་གདམས་འགའ་ཞིག་ཟུར་དུ་བཀོལ་བ།
+      author: རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
+      base_file: cad9.txt
+      order: 12
+created_at: '2022-04-06T16:54:56.265865'
+last_modified_at: '2022-04-06T16:54:56.265889'
